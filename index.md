@@ -22,4 +22,4 @@ My name is **Vincent Jeanselme**, I am a research analyst programmer in the [Aut
 
 --------
 # Contact
-In your interesting in working with me, send me an email at vincent.jeanselme@gmail.com
+If you are interested in working with me, send me an email at vincent.jeanselme@gmail.com
