@@ -11,7 +11,7 @@ I am a research analyst programmer in the [Auton Lab](https://www.autonlab.org/)
     <dt>Robustness Of Machine Learning Models For Hemorrhage Detection</dt>
     <dd>ATS - Philadelphia, PA, USA - May 2020</dd>
     <dd><b>V. Jeanselme</b>, A. Wertz, G. Clermont, M. R. Pinsky and A. W. Dubrawsk</dd>
-    <dt>Predicting Hypotension Episode With Numerical Vital Sign Signals in the Intensive Care Unit</dt>
+    <dt>Cross-correlation Features of Vital Signs Enable Robust Detection of Hemorrhage</dt>
     <dd>ISICEM - Brussels, Belgium - Mar. 2020</dd>
     <dd><b>V. Jeanselme</b>, A. Wertz, G. Clermont, M. R. Pinsky and A. W. Dubrawsk</dd>
     <dt>Predicting Hypotension Episode With Numerical Vital Sign Signals in the Intensive Care Unit</dt>
