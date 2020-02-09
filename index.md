@@ -27,5 +27,44 @@ I am a research analyst programmer in the [Auton Lab](https://www.autonlab.org/)
   </dl>
 
 --------
+# Teaching
+
+## AI4ALL
+I mentored highschool students during [AI4ALL](http://ai-4-all.org/) summer programms. In order to learn the basics of machine learning and programming in python, I created the [House Pricing Project](https://github.com/Jeanselme/AI4ALL) using data from [Kaggle](https://www.kaggle.com/).  
+
+## Visualization
+Visalization is essential to understand the data at hand. I created a [simple tool](https://github.com/Jeanselme/VisualizerTransformation) to visualize transformation from orignal space, to TSNE and PCA.  
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Jeanselme/VisualizerTransformation/master/images/digit.gif"/>
+</p>  
+
+Clustering for labeled data can also be visualized with this [tool](https://github.com/Jeanselme/ClassificationClustering) which allows to display the hierachy given the class distribution in subbranches.  
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Jeanselme/ClassificationClustering/master/Images/dendrogram.png"/>
+</p>  
+
+I also had some interest in [visualizing sound](https://github.com/Jeanselme/Sound_Visualization)
+
+--------
+# Open Source
+Reproducibility is key in science, I publish the majority of my code in order to allow other researchers to make further analyses and help me to improve my code and findings.  
+
+A few tools that I use:  
+- [MovingWindowDefinition](https://github.com/Jeanselme/SklearnTS)
+- [SklearnTS](https://github.com/Jeanselme/SklearnTS): A tool for working with time series.
+
+Some projects that I wanted to work on:  
+- [Image Compression](https://github.com/Jeanselme/ImageCompression) is a simple use of singular value decomposition for data compression.
+- [SearchEngine](https://github.com/Jeanselme/Search_Engine) allows to search in a set of files.
+
+I have also implemented code for a few papers that I find particularly interesting:  
+- [CAA](https://github.com/Jeanselme/CanonicalAutocorrelationAnalysis)
+- [Eve](https://github.com/Jeanselme/Eve)
+- [Hough](https://github.com/Jeanselme/Hough)
+- [Superpixel](https://github.com/Jeanselme/SuperPixel)
+
+--------
 # Contact
 If you are interested in working with me, send me an email at vincent.jeanselme@gmail.com
