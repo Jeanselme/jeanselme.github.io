@@ -3,9 +3,9 @@ I am a research analyst programmer in the [Auton Lab](https://www.autonlab.org/)
 --------
 # COVID 19
 
-In a research effort to understand the spread of COVID 19, we developed a questionnaire to self report symptoms nationwide. We encourage all of you to participate. This voluntary questionnaire will take you less than 5 minutes to complete and will allow to better understand prevalence patterns of COVID-19 and similar diseases in your area. Participation in this study is voluntary and will not result in any compensation.  
-For any further information concerning this research project, please contact me at vjeansel@andrew.cmu.edu  
-Please participate and share this questionnaire: [Questionnaire](https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_eJAdOyhusboucDj)
+In a research effort to understand the spread of **COVID 19**, we developed a questionnaire to **self report symptoms** nationwide. We encourage **all of you** to participate. This voluntary questionnaire will take you less than 5 minutes to complete and will allow to better **understand prevalence patterns** of COVID-19 and similar diseases in your area. Participation in this study is voluntary and will not result in any compensation.  
+For any further information concerning this research project, please contact me at [vjeansel@andrew.cmu.edu](vjeansel@andrew.cmu.edu)   
+Please participate and share this [Questionnaire](https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_eJAdOyhusboucDj)
 
 --------
 # Publications
