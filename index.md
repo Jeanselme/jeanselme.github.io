@@ -1,4 +1,4 @@
-I am a research analyst programmer in the [Auton Lab](https://www.autonlab.org/) at [Carnegie Mellon University](https://www.cmu.edu/). My research interset is to develop machine learning tools to explain the diversity of **biological responses to diseases** for similar patients by characterising interactions between the exposome and the human body while making those technologies available in **resource-poor settings**.
+I am a research analyst programmer in the [Auton Lab](https://www.autonlab.org/) at [Carnegie Mellon University](https://www.cmu.edu/). My research interest is to develop machine learning tools to explain the diversity of **biological responses to diseases** for similar patients by characterising interactions between the exposome and the human body while making those technologies available in **resource-poor settings**.
 
 --------
 # COVID 19
