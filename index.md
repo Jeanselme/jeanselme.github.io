@@ -2,12 +2,18 @@ I am a research analyst programmer in the [Auton Lab](https://www.autonlab.org/)
 
 --------
 # Publications
-
+## Papers
+  <dl>
+    <dt>Prediction of Hypotension Events with Physiologic Vital Sign Signatures in The Intensive Care Unit</dt>
+    <dd>August 2020</dd>
+    <dd>J. H. Yoon*, <b>V. Jeanselme*</b>, A. W. Dubrawski, M. Hravnak, M.R. Pinsky, G. Clermont</dd>
+  </dl>
+  
 ## Extended Abstracts
   <dl>
     <dt>A Case For Federated Learning: Enabling And Leveraging Inter-hospital Collaboration</dt>
     <dd>ATS - Philadelphia, PA, USA - May 2020</dd>
-    <dd>S.Caldas, <b>V. Jeanselme</b>, G.Clermont, M.R.Pinsky and A.W.Dubrawski</dd>
+    <dd>S. Caldas, <b>V. Jeanselme</b>, G. Clermont, M. R. Pinsky and A. W. Dubrawski</dd>
     <dt>Robustness Of Machine Learning Models For Hemorrhage Detection</dt>
     <dd>ATS - Philadelphia, PA, USA - May 2020</dd>
     <dd><b>V. Jeanselme</b>, A. Wertz, G. Clermont, M. R. Pinsky and A. W. Dubrawsk</dd>
@@ -65,6 +71,7 @@ I have also implemented code for a few papers that I find particularly interesti
 - [Hough](https://github.com/Jeanselme/Hough)
 - [Superpixel](https://github.com/Jeanselme/SuperPixel)
 - [Multi view Boosting](https://github.com/Jeanselme/MultiviewBoosting)
+- [Normalized Compression Distance](https://github.com/Jeanselme/NormalizedCompressionDistance)
 
 --------
 # Contact
