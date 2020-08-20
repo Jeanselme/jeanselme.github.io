@@ -1,4 +1,6 @@
-I am a research analyst programmer in the [Auton Lab](https://www.autonlab.org/) at [Carnegie Mellon University](https://www.cmu.edu/). My research interest is to develop machine learning tools to explain the diversity of **biological responses to diseases** for similar patients by characterising interactions between the exposome and the human body while making those technologies available in **resource-poor settings**.
+I am a PhD student in the [MRC BSU](https://www.mrc-bsu.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/). I am working on the project **Clinical prediction inder informative presence: Exploring what patterns and timing of repeated observations in routinely collected data can tell us about disease risk** under the supervision of Dr Jessica Barrett and Dr Brian Tom.
+
+My research interest is to develop machine learning tools to explain the diversity of **biological responses to diseases** for similar patients by characterising interactions between the exposome and the human body while making those technologies available in **resource-poor settings**.
 
 --------
 # Publications
