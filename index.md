@@ -73,6 +73,9 @@ I have also implemented code for a few papers that I find particularly interesti
 - [Multi view Boosting](https://github.com/Jeanselme/MultiviewBoosting)
 - [Normalized Compression Distance](https://github.com/Jeanselme/NormalizedCompressionDistance)
 
+And also some analysis of Kaggle datasets:
+ - [How to learn vocabulary ?](https://www.kaggle.com/jeanselme/how-to-learn-vocabulary)
+
 --------
 # Contact
-If you are interested in working with me, send me an email at vincent.jeanselme@gmail.com
+If you are interested in working with me, send me an email at vincent.jeanselme@gmail.com or contact me [@VincentJeansel1](https://twitter.com/VincentJeansel1)
