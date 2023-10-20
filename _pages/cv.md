@@ -22,7 +22,7 @@ Research experience
 ======
 * Aug. 2023 - Jan. 2024: Visiting Researcher at *Mayo Clinic*.
 
-* Oct. 2022 - Oct. 2024: Placement student at the *Alan Turing Institute*.
+* Oct. 2022 - Oct. 2023: Placement student at the *Alan Turing Institute*.
 
 * Nov. 2017 - Aug. 2020: Research Analyst at *Carnegie Mellon University*.
   
