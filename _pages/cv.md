@@ -20,7 +20,7 @@ Education
 
 Research experience
 ======
-* Aug. 2023 - Jan. 2024: Visiting Researcher at *Mayo Clinic*.
+* Aug. 2023 - Feb. 2024: Visiting Researcher at *Mayo Clinic*.
 
 * Oct. 2022 - Oct. 2023: Placement student at the *Alan Turing Institute*.
 
