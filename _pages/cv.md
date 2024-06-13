@@ -13,13 +13,15 @@ Find below a short summary of my academic journey.
 
 Education
 ======
-* Ph.D in **Biostatistics**, University of Cambridge, *2024* (expected)
+* Ph.D, University of Cambridge, *2024*
 * M.S. in **Machine Learning and Data Science**, Ecole Nationale Supérieure d’Informatique et de Mathématiques Appliquées de Grenoble, *2017*
 * Engineer's degree in **Applied Mathematics and Computer Science**, Ecole Nationale Supérieure d’Informatique et de Mathématiques Appliquées de Grenoble, *2017*
 
 
 Research experience
 ======
+* May 2024 - Sept. 2024: Postdoctoral Researcher at the *University of Cambridge*.
+
 * Aug. 2023 - Feb. 2024: Visiting Researcher at *Mayo Clinic*.
 
 * Oct. 2022 - Oct. 2023: Placement student at the *Alan Turing Institute*.
