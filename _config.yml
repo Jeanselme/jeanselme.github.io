@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vincent Jeanselme"
 title_separator          : "-"
 name                     : &name "Vincent Jeanselme"
-description              : &description "PhD Student at Cambridge"
+description              : &description "Postdoctroal researcher"
 url                      : "https://jeanselme.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeanselme.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vincent Jeanselme"
   avatar           : "profile.png"
-  bio              : "PhD Student at Cambridge Machine Learning for Healthcare"
+  bio              : "Machine Learning for Healthcare"
   location         : "Cambridge, UK"
   employer         :
   pubmed           : 
