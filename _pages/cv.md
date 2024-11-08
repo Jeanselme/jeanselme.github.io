@@ -20,7 +20,9 @@ Education
 
 Research experience
 ======
-* May 2024 - Sept. 2024: Postdoctoral Researcher at the *University of Cambridge*.
+* Upcoming: Postdoctoral Researcher at *Columbia University*.
+
+* May 2024 - Jan. 2025: Postdoctoral Researcher at the *University of Cambridge*.
 
 * Aug. 2023 - Feb. 2024: Visiting Researcher at *Mayo Clinic*.
 
