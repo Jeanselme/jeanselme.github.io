@@ -20,7 +20,7 @@ Education
 
 Research experience
 ======
-* Jan. 2025 - Present*: Postdoctoral Scientist at *Columbia University*.
+* Jan. 2025 - Present: Postdoctoral Scientist at *Columbia University*.
 
 * May 2024 - Dec. 2024: Postdoctoral Researcher at the *University of Cambridge*.
 
