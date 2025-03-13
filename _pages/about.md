@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Vincent Jeanselme, a postdoctoral researcher at the [reAIM](https://reaim-lab.github.io/) lab at [Columbia University](https://www.columbia.edu/). My research interest lies in developing machine learning models to assist medical decisions with a focus on reducing inequalities in medical care access and delivery.
+I am Vincent Jeanselme, a postdoctoral researcher at the [reAIM](https://reaim-lab.github.io/) lab at [Columbia University](https://www.columbia.edu/). My research interest lies in developing machine learning models and studying their impact on medical decisions with a focus on reducing inequalities in medical care access and delivery.
 
 My [PhD thesis](https://doi.org/10.17863/CAM.112135), under the supervision of Dr Jessica Barrett and Dr Brian Tom at the [University of Cambridge](https://www.cam.ac.uk/), investigated how the interaction between patients and the healthcare system harms the application of machine learning models in real-world settings.
 
