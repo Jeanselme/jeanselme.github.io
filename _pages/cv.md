@@ -22,6 +22,8 @@ Research experience
 ======
 * Jan. 2025 - Present: Postdoctoral Scientist at *Columbia University*.
 
+* Jan. 2025 - Present: Visiting Postdoctoral Researcher at *University of Cambridge*.
+
 * May 2024 - Dec. 2024: Postdoctoral Researcher at the *University of Cambridge*.
 
 * Aug. 2023 - Feb. 2024: Visiting Researcher at *Mayo Clinic*.
