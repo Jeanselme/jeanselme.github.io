@@ -3,7 +3,7 @@ title: "Identifying treatment response subgroups in observational time-to-event 
 collection: workings
 excerpt: 'Identifying patient subgroups with different treatment responses is an important task to inform medical recommendations, guidelines, and the design of future clinical trials. Existing approaches for subgroup analysis primarily focus on Randomised Controlled Trials (RCTs), in which treatment assignment is randomised. Furthermore, the patient cohort of an RCT is often constrained by cost, and is not representative of the heterogeneity of patients likely to receive treatment in real-world clinical practice. Therefore, when applied to observational studies, such approaches suffer from significant statistical biases because of the non-randomisation of treatment. Our work introduces a novel, outcome-guided method for identifying treatment response subgroups in observational studies. Our approach assigns each patient to a subgroup associated with two time-to-event distributions: one under treatment and one under control regime. It hence positions itself in between individualised and average treatment effect estimation. The assumptions of our model result in a simple correction of the statistical bias from treatment non-randomisation through inverse propensity weighting. In experiments, our approach significantly outperforms the current state-of-the-art method for outcome-guided subgroup analysis in both randomised and observational treatment regimes.'
 date: 2024-08-01
-venue: 'ICLR'
+venue: 'NeurIPS'
 paperurl: 'https://www.arxiv.org/abs/2408.03463'
-citation: 'Jeanselme, V., Yoon, C., Falck, F., Tom, B., Barrett, J. <b>Identifying treatment response subgroups in observational time-to-event data</b>.'
+citation: 'Jeanselme, V., Yoon, C., Falck, F., Tom, B., and Barrett, J. <b>Identifying treatment response subgroups in observational time-to-event data</b>.'
 ---

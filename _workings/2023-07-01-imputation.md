@@ -5,5 +5,5 @@ excerpt: 'Machine learning risks reinforcing biases present in data, and, as we 
 date: 2023-07-01
 venue: 'Management Science (Reject and Resubmit)'
 paperurl: 'https://arxiv.org/abs/2208.06648'
-citation: 'Jeanselme, V., De-Arteaga, M., Zhang, Z., Barrett, J., Tom, B. <b>Imputation Strategies Under Clinical Presence: Impact on Algorithmic Fairness</b>.'
+citation: 'Jeanselme, V., De-Arteaga, M., Zhang, Z., Barrett, J., and Tom, B. <b>Imputation Strategies Under Clinical Presence: Impact on Algorithmic Fairness</b>.'
 ---
