@@ -6,5 +6,6 @@ Our work theoretically demonstrates why treating competing risks as censoring in
 By quantifying the error and highlighting the fairness implications of the common practice of considering competing risks as censoring, our work provides a critical insight into the development of survival models: practitioners must account for competing risks to improve accuracy, reduce disparities in risk assessment, and better inform downstream decisions."
 date: 2024-07-01
 tosubmit: ''
+paperurl: 'https://arxiv.org/abs/2508.05435'
 citation: 'Jeanselme, V., Barrett, J., and Tom, B. <b>Competing Risks: Impact on Risk Estimation and Algorithmic Fairness</b>.'
 ---
