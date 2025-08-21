@@ -5,7 +5,7 @@ excerpt: "Accurate time-to-event prediction is integral to decision-making, info
 Our work theoretically demonstrates why treating competing risks as censoring introduces substantial bias in survival estimates, leading to systematic overestimation of risk and, critically, amplifying disparities. First, we formalize the problem of misclassifying competing risks as censoring and quantify the resulting error in survival estimates. Specifically, we develop a framework to estimate this error and demonstrate the associated implications for predictive performance and algorithmic fairness. Furthermore, we examine how differing risk profiles across demographic groups lead to group-specific errors, potentially exacerbating existing disparities. Our findings, supported by an empirical analysis of cardiovascular management, demonstrate that ignoring competing risks disproportionately impacts the individuals most at risk of these events, potentially accentuating inequity.
 By quantifying the error and highlighting the fairness implications of the common practice of considering competing risks as censoring, our work provides a critical insight into the development of survival models: practitioners must account for competing risks to improve accuracy, reduce disparities in risk assessment, and better inform downstream decisions."
 date: 2024-07-01
-tosubmit: ''
+tosubmit: 'Management Science'
 paperurl: 'https://arxiv.org/abs/2508.05435'
 citation: 'Jeanselme, V., Barrett, J., and Tom, B. <b>Competing Risks: Impact on Risk Estimation and Algorithmic Fairness</b>.'
 ---
