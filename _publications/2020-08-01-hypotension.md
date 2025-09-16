@@ -1,7 +1,13 @@
 ---
 title: "Prediction of Hypotension Events with Physiologic Vital Sign Signatures in The Intensive Care Unit"
 collection: publications
-excerpt: '*Background*  
+excerpt: ''
+date: 2020-08-01
+venue: 'Critical Care'
+paperurl: 'https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03379-3'
+citation: 'Yoon, J. H.*, Jeanselme, V.*, Dubrawski, A., Hravnak, M., Pinsky, M. R., Clermont, G. (2020). <b>Prediction of Hypotension Events with Physiologic Vital Sign Signatures in The Intensive Care Unit</b>. In <i>Critical Care, 24(1), 1-9</i>.'
+---
+*Background*  
 Even brief hypotension is associated with increased morbidity and mortality. We developed a machine learning model to predict the initial hypotension event among intensive care unit (ICU) patients and designed an alert system for bedside implementation.
 
 
@@ -14,9 +20,4 @@ We identified 1307 subjects (1580 ICU stays) as the hypotension group and 1619 s
 
 
 *Conclusion*  
-Clinically significant hypotension events in the ICU can be predicted at least 1 h before the initial hypotension episode. With a highly sensitive and reliable practical alert system, a vast majority of future hypotension could be captured, suggesting potential real-life utility.'
-date: 2020-08-01
-venue: 'Critical Care'
-paperurl: 'https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03379-3'
-citation: 'Yoon, J. H.*, Jeanselme, V.*, Dubrawski, A., Hravnak, M., Pinsky, M. R., Clermont, G. (2020). <b>Prediction of Hypotension Events with Physiologic Vital Sign Signatures in The Intensive Care Unit</b>. In <i>Critical Care, 24(1), 1-9</i>.'
----
+Clinically significant hypotension events in the ICU can be predicted at least 1 h before the initial hypotension episode. With a highly sensitive and reliable practical alert system, a vast majority of future hypotension could be captured, suggesting potential real-life utility.
