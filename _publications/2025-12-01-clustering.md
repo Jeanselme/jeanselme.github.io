@@ -3,7 +3,7 @@ title: "Identifying treatment response subgroups in observational time-to-event 
 collection: publications
 excerpt: ''
 date: 2025-12-01
-venue: 'Management Science'
+venue: 'Machine Learning for Health (ML4H)'
 paperurl: 'https://www.arxiv.org/abs/2408.03463'
 citation: 'Jeanselme, V., Yoon, C., Falck, F., Tom, B., and Barrett, J. <b>Identifying treatment response subgroups in observational time-to-event data</b>. In <i>Machine Learning for Health</i>.'
 ---
