@@ -20,11 +20,7 @@ Education
 
 Research experience
 ======
-* Jan. 2025 - Present: Postdoctoral Scientist at *Columbia University*.
-
-* Sept. 2025 - Present: Visiting Research Collaborator at *Mayo Clinic*.
-
-* Jan. 2025 - Present: Visiting Postdoctoral Researcher at *University of Cambridge*.
+* Jan. 2025 - Mar. 2026: Postdoctoral Scientist at *Columbia University*.
 
 * May 2024 - Dec. 2024: Postdoctoral Researcher at the *University of Cambridge*.
 
