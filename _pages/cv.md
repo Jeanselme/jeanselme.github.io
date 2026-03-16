@@ -20,6 +20,8 @@ Education
 
 Research experience
 ======
+* Mar. 2026: Director of Machine Learning Research at *PathomIQ*.
+
 * Jan. 2025 - Mar. 2026: Postdoctoral Scientist at *Columbia University*.
 
 * May 2024 - Dec. 2024: Postdoctoral Researcher at the *University of Cambridge*.
