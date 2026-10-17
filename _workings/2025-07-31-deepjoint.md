@@ -9,7 +9,7 @@ Our work formalises the concept of clinical presence shift when the prediction m
 We demonstrate, in a real-world mortality prediction task in the MIMIC-III dataset, how the proposed strategy improves performance and transportability compared to state-of-the-art prediction models that do not incorporate the observation process. 
 These results emphasise the importance of leveraging clinical presence to improve performance and create more transportable clinical prediction models. "
 date: 2025-07-31
-venue: 'Lifetime Data Analysis'
+venue: 'Lifetime Data Analysis (Major Revision)'
 paperurl: 'https://arxiv.org/abs/2508.05472'
 citation: 'Jeanselme, V., Martin, G., Peek, N., Sperrin, M., Tom, B., Barrett, J. <b>Prediction of Survival Outcomes under Clinical Presence Shift: A Joint Neural Network Architecture</b>.'
 ---

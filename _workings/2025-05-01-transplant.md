@@ -9,7 +9,7 @@ Additionally, we extend traditional methodologies with neural networks to assess
 Our contributions include a detailed performance assessment between traditional and competing risks models, measuring predictive gains associated with neural networks, and developing a Python implementation for these models and associated evaluation metrics. 
 Our findings demonstrate the importance of accounting for competing risks to improve risk estimation. These insights have substantial implications for improving patient prioritisation and transplantation management practices."
 date: 2025-05-01
-venue: 'Statistical Analysis and Data Mining'
+venue: 'Statistical Analysis and Data Mining (Major Revision)'
 paperurl: ''
 citation: 'Jeanselme, V., Defor, E., Bandyopadhyay, D., and Gupta, G. <b>From Cox to Neural Networks: Flexible Modeling Improves Modeling of Post-Kidney Transplant Survival</b>.'
 ---
